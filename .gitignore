@@ -1,3 +1,5 @@
-ThinkPHP/
-Uploads/
-html/
+ThinkPHP/*
+Uploads/*
+html/*
+App/Runtime/*
+Admin/Runtime/*
